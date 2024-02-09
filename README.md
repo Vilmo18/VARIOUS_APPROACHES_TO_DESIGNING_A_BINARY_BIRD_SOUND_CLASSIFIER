@@ -1,6 +1,5 @@
 # Developing-an-Automatic-Recording-Unit-ARU-with-a-Raspberry-Pi
 
-![Static Badge](https://img.shields.io/badge/python-3-yellow)
 [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
