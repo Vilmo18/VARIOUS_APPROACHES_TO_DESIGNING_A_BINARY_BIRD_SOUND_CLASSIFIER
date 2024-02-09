@@ -11,4 +11,4 @@
 
 #Social
 
-[![vilmo18](https://img.shields.io/badge/GitHub-jhrcook-181717.svg?style=flat&logo=github)](https://github.com/jhrcook)
+[![vilmo18](https://img.shields.io/badge/GitHub-jhrcook-181717.svg?style=flat&logo=github)](https://github.com/Vilmo18)
